@@ -1,1 +1,1 @@
-# AI-Image-detection
+## AI vs Real image detection
