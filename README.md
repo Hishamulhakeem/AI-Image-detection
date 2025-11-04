@@ -24,9 +24,10 @@ This project focuses on distinguishing between real and AI-generated (synthetic)
 
 ## 🚀 How to Run
 1. Clone or download this repository.
-2. Place your dataset in the `data/` folder with subdirectories for each class (`real/`, `ai/`) or use this url to download dataset "https://www.kaggle.com/datasets/cashbowman/ai-generated-images-vs-real-images".
-3. Run the notebook `real.ipynb` in Jupyter or VS Code.
-4. The trained model will output accuracy and prediction results.
+2. Place your dataset in the `data/` folder with subdirectories for each class (`real/`, `ai/`)
+3. Use this url to download dataset "https://www.kaggle.com/datasets/cashbowman/ai-generated-images-vs-real-images".
+4. Run the notebook `real.ipynb` in Jupyter or VS Code.
+5. The trained model will output accuracy and prediction results.
 
 ---
 
