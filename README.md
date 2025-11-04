@@ -1,4 +1,4 @@
-# Real vs AI Image Detection
+## Real vs AI Image Detection
 
 This project focuses on distinguishing between real and AI-generated (synthetic) images using deep learning techniques. The system leverages convolutional neural networks (CNNs) and transfer learning models like VGG16 and MobileNetV2 to accurately classify images as either real or AI-generated. The model is trained using TensorFlow and Keras, utilizing data augmentation through ImageDataGenerator to improve generalization. It can serve as a foundation for AI-generated content verification, fake image detection, and digital authenticity analysis.
 
@@ -24,7 +24,7 @@ This project focuses on distinguishing between real and AI-generated (synthetic)
 
 ## 🚀 How to Run
 1. Clone or download this repository.
-2. Place your dataset in the `data/` folder with subdirectories for each class (`real/`, `ai/`).
+2. Place your dataset in the `data/` folder with subdirectories for each class (`real/`, `ai/`) or use this url to download dataset "https://www.kaggle.com/datasets/cashbowman/ai-generated-images-vs-real-images".
 3. Run the notebook `real.ipynb` in Jupyter or VS Code.
 4. The trained model will output accuracy and prediction results.
 
